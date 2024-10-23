@@ -1,0 +1,14 @@
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\bin\Debug\net8.0\Finance_Tracker.exe
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\bin\Debug\net8.0\Finance_Tracker.deps.json
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\bin\Debug\net8.0\Finance_Tracker.runtimeconfig.json
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\bin\Debug\net8.0\Finance_Tracker.dll
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\bin\Debug\net8.0\Finance_Tracker.pdb
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\obj\Debug\net8.0\Finance_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\obj\Debug\net8.0\Finance_Tracker.AssemblyInfoInputs.cache
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\obj\Debug\net8.0\Finance_Tracker.AssemblyInfo.cs
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\obj\Debug\net8.0\Finance_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\obj\Debug\net8.0\Finance_Tracker.dll
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\obj\Debug\net8.0\refint\Finance_Tracker.dll
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\obj\Debug\net8.0\Finance_Tracker.pdb
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\obj\Debug\net8.0\Finance_Tracker.genruntimeconfig.cache
+C:\Users\nesto\Desktop\dotNetProjs\FinanceTracker\Finance_Tracker\obj\Debug\net8.0\ref\Finance_Tracker.dll
